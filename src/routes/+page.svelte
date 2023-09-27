@@ -1,2 +1,4 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div class="text-6xl font-bold text-center text-blue-600 bg-yellow-300 p-8">
+    BIDET IS LIFE!
+  </div>
+  
