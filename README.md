@@ -1,6 +1,10 @@
 # bidet-improvement-data-experience-tracker-frontend
 
-B - idet I - mprovement D - ata E - xperience T - racker
+B - idet 
+I - mprovement 
+D - ata for
+E - mployee Experience 
+T - racker
 
 Frontend - SvelteJS
 Backend - Laravel
